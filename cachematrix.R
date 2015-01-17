@@ -4,7 +4,7 @@
 
 ## How to get the inverse of a matrix:
 
-## a<- makeCacheMatrix(X)    -- we create the special "matrix" object
+## a<- makeCacheMatrix(X)    -- we create the special "matrix" object where X is an invertible matrix
 ## cacheSolve(a)             -- we calculate the inverse and we cache it
 ## cacheSolve(a)             -- we retrieve the inverse so we don't have to calculate it
 
